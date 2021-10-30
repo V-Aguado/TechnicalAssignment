@@ -1,0 +1,12 @@
+
+All Records:
+<hostname>/api/viewpayment
+
+By Currency:
+<hostname>/api/viewpayment?currency=<currency to be search>
+
+By Status:
+<hostname>/api/viewpayment?status=<status to be search>
+
+By Date Range:
+<hostname>/api/viewpayment?datefrom=<start date>&dateto=<end date>
