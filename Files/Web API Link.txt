@@ -1,0 +1,12 @@
+
+All Records:
+<hostname>/api/viewpayment
+
+By Currency:
+<hostname>/api/viewpayment
+
+By Status:
+<hostname>/api/viewpayment
+
+By Date Range:
+<hostname>/api/viewpayment

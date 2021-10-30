@@ -19,7 +19,7 @@ GO
 CREATE TABLE [dbo].[tbl_Transactions](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[InvoiceId] [nvarchar](50) NOT NULL,
-	[Amount] [decimal](18, 0) NOT NULL,
+	[Amount] [decimal](18, 2) NOT NULL,
 	[Currency] [nvarchar](50) NOT NULL,
 	[TransactionDate] [datetime] NOT NULL,
 	[Status] [nvarchar](50) NOT NULL,

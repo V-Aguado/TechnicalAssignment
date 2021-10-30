@@ -1,0 +1,14 @@
+D:\Projects\TechnicalAssignment\ViewTransaction\bin\Debug\netcoreapp2.2\ViewTransaction.deps.json
+D:\Projects\TechnicalAssignment\ViewTransaction\bin\Debug\netcoreapp2.2\ViewTransaction.runtimeconfig.json
+D:\Projects\TechnicalAssignment\ViewTransaction\bin\Debug\netcoreapp2.2\ViewTransaction.runtimeconfig.dev.json
+D:\Projects\TechnicalAssignment\ViewTransaction\bin\Debug\netcoreapp2.2\ViewTransaction.dll
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.csprojAssemblyReference.cache
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.csproj.CoreCompileInputs.cache
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.RazorAssemblyInfo.cache
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.RazorAssemblyInfo.cs
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.AssemblyInfoInputs.cache
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.AssemblyInfo.cs
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.RazorTargetAssemblyInfo.cache
+D:\Projects\TechnicalAssignment\ViewTransaction\bin\Debug\netcoreapp2.2\ViewTransaction.pdb
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.dll
+D:\Projects\TechnicalAssignment\ViewTransaction\obj\Debug\netcoreapp2.2\ViewTransaction.pdb

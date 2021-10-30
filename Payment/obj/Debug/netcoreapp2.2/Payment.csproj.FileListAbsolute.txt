@@ -5,7 +5,6 @@ D:\Projects\TechnicalAssignment\Payment\bin\Debug\netcoreapp2.2\Payment.dll
 D:\Projects\TechnicalAssignment\Payment\bin\Debug\netcoreapp2.2\Payment.pdb
 D:\Projects\TechnicalAssignment\Payment\bin\Debug\netcoreapp2.2\Payment.Views.dll
 D:\Projects\TechnicalAssignment\Payment\bin\Debug\netcoreapp2.2\Payment.Views.pdb
-D:\Projects\TechnicalAssignment\Payment\obj\Debug\netcoreapp2.2\Payment.csprojAssemblyReference.cache
 D:\Projects\TechnicalAssignment\Payment\obj\Debug\netcoreapp2.2\Payment.csproj.CoreCompileInputs.cache
 D:\Projects\TechnicalAssignment\Payment\obj\Debug\netcoreapp2.2\Payment.RazorAssemblyInfo.cache
 D:\Projects\TechnicalAssignment\Payment\obj\Debug\netcoreapp2.2\Payment.RazorAssemblyInfo.cs

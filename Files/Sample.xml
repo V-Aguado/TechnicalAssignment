@@ -15,4 +15,12 @@
 	 	</PaymentDetails> 
 	 	<Status>Rejected</Status> 
 	</Transaction> 
+	<Transaction id="Inv00003"> 
+	 	<TransactionDate>2019-01-25T17:34:45</TransactionDate> 
+	 	<PaymentDetails> 
+	 	 	<Amount>5000.00</Amount> 
+	 	 	<CurrencyCode>USD</CurrencyCode> 
+	 	</PaymentDetails> 
+	 	<Status>Approved</Status> 
+	</Transaction>
 </Transactions> 
